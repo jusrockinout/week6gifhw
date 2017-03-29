@@ -1,0 +1,31 @@
+button {
+	display:flex;
+	margin: 10px;
+	width: auto; 	
+}
+
+body {
+	background: url(../media/images/Background.jpg) center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#searchBar {
+	margin: 10px 0 0 0;
+
+}
+#gifDisplay *{
+	text-align: center;
+}
+
+#gifDisplay>div{
+	margin: 10px 0 0 0;
+
+}
+
+.inline-block{
+	display: inline-block;
+}
+
